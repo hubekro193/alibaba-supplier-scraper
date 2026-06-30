@@ -1,0 +1,7 @@
+google_credentials.json
+*.json
+*.xlsx
+*.xls
+__pycache__/
+*.pyc
+.DS_Store
